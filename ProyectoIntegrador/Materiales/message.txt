@@ -1,0 +1,144 @@
+<section class="section3">
+      <div class="section3Text">
+        <h3>Noticias</h3>
+        <a href="https://lacarabuenadelmundo.com/">Ver todas</a>
+      </div>
+      <div class="row">
+        <div class="col-sm-3  contenedor-card">
+          <div class="card" style="width: 15rem">
+            <img
+              src="/Materiales/_127067836_gettyimages-892794240.jpg.webp"
+              class="card-img-top"
+              alt="cardImage"
+              width="auto"
+              height="120"
+            />
+            <div class="card-body">
+              <div class="iconos">
+                <img
+                  src="/Materiales/icono-calendario.png"
+                  alt="calendario"
+                  height="20"
+                  width="20"
+                />
+                <p>18/10/22</p>
+                <img
+                  src="/Materiales/icono-reloj.png"
+                  alt="reloj"
+                  height="20"
+                  width="20"
+                />
+                <p>4 min</p>
+              </div>
+              <h5 class="card-title">¿Qué es lo que más energía consume en una casa?</h5>
+              <p class="card-text">
+                Hay que tener en cuenta que la climatización (calefacción + aire acondicionado) en general supone el mayor gasto en energía.
+              </p>
+              <a href="https://www.bbc.com/mundo/noticias-63232963">→ ver más</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3  contenedor-card">
+          <div class="card" style="width: 15rem">
+            <img
+              src="/Materiales/shutterstock_1160793658.jpg"
+              class="card-img-top"
+              alt="cardImage"
+              width="auto"
+              height="120"
+            />
+            <div class="card-body">
+              <div class="iconos">
+                <img
+                  src="/Materiales/icono-calendario.png"
+                  alt="calendario"
+                  height="20"
+                  width="20"
+                />
+                <p>11/10/22</p>
+                <img
+                  src="/Materiales/icono-reloj.png"
+                  alt="reloj"
+                  height="20"
+                  width="20"
+                />
+                <p>7 min</p>
+              </div>
+              <h5 class="card-title"> Nuevo estudio sugiere viajar al futuro a través de los sueños.</h5>
+              <p class="card-text">
+                Se sabe desde hace tiempo que los sueños incorporan fragmentos de experiencias pasadas, tambien anticipan acontecimientos del futuros.
+              </p>
+              <a href="https://lacarabuenadelmundo.com/viajar-al-futuro-a-traves-de-los-suenos-nuevo-estudio/">→ ver más</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3  contenedor-card">
+          <div class="card" style="width: 15rem">
+            <img
+              src="/Materiales/El-primer-tren-sustentable-es-posible-y-obtendra-energia-a-partir-de-residuos.jpg"
+              class="card-img-top"
+              alt="cardImage"
+              width="auto"
+              height="120"
+            />
+            <div class="card-body">
+              <div class="iconos">
+                <img
+                  src="/Materiales/icono-calendario.png"
+                  alt="calendario"
+                  height="20"
+                  width="20"
+                />
+                <p>14/10/22</p>
+                <img
+                  src="/Materiales/icono-reloj.png"
+                  alt="reloj"
+                  height="20"
+                  width="20"
+                />
+                <p>6 min</p>
+              </div>
+              <h5 class="card-title">Tren sustentable obtendrá energía a partir de residuos.</h5>
+              <p class="card-text">
+                El objetivo de este nuevo vehículo ferroviario es ser utilizado para realizar viajes urbanos, contando con la colaboración del gobierno británico.
+              </p>
+              <a href="https://lacarabuenadelmundo.com/el-inminente-tren-sustentable-obtendra-energia-a-partir-de-residuos/">→ ver más</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3  contenedor-card">
+          <div class="card" style="width: 15rem">
+            <img
+              src="/Materiales/luz.jpg"
+              class="card-img-top"
+              alt="cardImage"
+              width="auto"
+              height="120"
+            />
+            <div class="card-body">
+              <div class="iconos">
+                <img
+                  src="/Materiales/icono-calendario.png"
+                  alt="calendario"
+                  height="20"
+                  width="20"
+                />
+                <p>06/10/22</p>
+                <img
+                  src="/Materiales/icono-reloj.png"
+                  alt="reloj"
+                  height="20"
+                  width="20"
+                />
+                <p>5 min</p>
+              </div>
+              <h5 class="card-title">La electricidad generada mediante las plantas.</h5>
+              <p class="card-text">
+                ¿Por qué no unir naturaleza y tecnología? Es posible utilizar la fotosíntesis para obtener energía, sin dañar los organismos vivos.
+              </p>
+              <a href="https://lacarabuenadelmundo.com/electricidad-generada-mediante-plantas/">→ ver más</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
