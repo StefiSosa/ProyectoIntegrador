@@ -1,6 +1,7 @@
 # ProyectoIntegrador
 
-CORRECCIÓN
+CORRECCIONES REALIZADAS POR YAZIMEL NICLIS DOCENTE DE SENPAI ACADEMY
+github: https://github.com/YazimelNiclis
 
 Puntos de evaluación (generales)
 
